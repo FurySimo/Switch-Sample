@@ -1,0 +1,15 @@
+D:\Important Documents\GitHub Codes\C#\Switch\bin\Debug\net5.0\Switch.exe
+D:\Important Documents\GitHub Codes\C#\Switch\bin\Debug\net5.0\Switch.deps.json
+D:\Important Documents\GitHub Codes\C#\Switch\bin\Debug\net5.0\Switch.runtimeconfig.json
+D:\Important Documents\GitHub Codes\C#\Switch\bin\Debug\net5.0\Switch.runtimeconfig.dev.json
+D:\Important Documents\GitHub Codes\C#\Switch\bin\Debug\net5.0\Switch.dll
+D:\Important Documents\GitHub Codes\C#\Switch\bin\Debug\net5.0\ref\Switch.dll
+D:\Important Documents\GitHub Codes\C#\Switch\bin\Debug\net5.0\Switch.pdb
+D:\Important Documents\GitHub Codes\C#\Switch\obj\Debug\net5.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Important Documents\GitHub Codes\C#\Switch\obj\Debug\net5.0\Switch.AssemblyInfoInputs.cache
+D:\Important Documents\GitHub Codes\C#\Switch\obj\Debug\net5.0\Switch.AssemblyInfo.cs
+D:\Important Documents\GitHub Codes\C#\Switch\obj\Debug\net5.0\Switch.csproj.CoreCompileInputs.cache
+D:\Important Documents\GitHub Codes\C#\Switch\obj\Debug\net5.0\Switch.dll
+D:\Important Documents\GitHub Codes\C#\Switch\obj\Debug\net5.0\ref\Switch.dll
+D:\Important Documents\GitHub Codes\C#\Switch\obj\Debug\net5.0\Switch.pdb
+D:\Important Documents\GitHub Codes\C#\Switch\obj\Debug\net5.0\Switch.genruntimeconfig.cache
